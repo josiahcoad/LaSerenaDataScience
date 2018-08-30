@@ -1,4 +1,3 @@
-[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/josiahcoad/LaSerenaDataScienceSchool/master?filepath=ExoplanetAnalysis.ipynb)
 # LaSerenaDataScienceSchool
 Repository for my final project at the la serena data science school in Chile.
 
