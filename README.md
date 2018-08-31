@@ -1,6 +1,7 @@
 # LaSerenaDataScienceSchool
 Repository for my final project at the la serena data science school in Chile.
 
+[Launch notebook :notebook:](https://nbviewer.jupyter.org/github/josiahcoad/LaSerenaDataScienceSchool/blob/master/ExoplanetAnalysis.ipynb)
 ## Topics Covered
  - Classification: Random forest, Adaboost, etc.
  - tSNE
